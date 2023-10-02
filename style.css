@@ -112,11 +112,10 @@ p {
   margin-left: 9px;
 }
 
-
 .rounded {
   margin-bottom: 1rem !important;
+}
 
-  img {
-    object-fit: contain;
-  }
-  
+img {
+  object-fit: contain;
+}
